@@ -1,0 +1,11 @@
+.cuadrito {
+    border: solid 1px black;
+    padding: 5px;
+    display: inline-block;
+    font-size: 32px;
+    font-family: Arial;
+    width: 100px;
+    height: 110px;
+    overflow: hidden;
+
+}
